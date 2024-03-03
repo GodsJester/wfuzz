@@ -1,3 +1,5 @@
+# add this shit later, much easier than doing it in the mall
+
 import os
 import sys
 import re
